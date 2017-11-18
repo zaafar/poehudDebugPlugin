@@ -1,0 +1,10 @@
+Owner: Zaafar
+Name: poehudDebugPlugin
+Repository
+
+Ignore:
+src
+.gitignore
+README.md
+LICENSE
+.pdb
